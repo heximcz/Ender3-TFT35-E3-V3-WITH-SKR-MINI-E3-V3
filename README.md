@@ -6,5 +6,5 @@
 - BTT TFT35-E3 V3.0
 
 ## Software
-- Marlin
+- [Marlin](https://github.com/MarlinFirmware/Marlin)
 - [TFT35-E3 V3.0](https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware)
